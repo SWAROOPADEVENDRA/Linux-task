@@ -1,0 +1,21 @@
+1.mkdir :to create directory
+2.cd :to switch directory
+3.cd ..: to switch back to previous directory
+4.touch :to create file
+5.pwd :path of present directory
+6.ls:list all files and directories
+7.rmdir :to delete the empty directory
+8.rm :to delete files
+9.cat :to see the content in the files
+10.echo :to print
+11.man :mannual of commands
+12.whoami :who is the user of the file
+12.clear :to clear screen
+13.history :to see history of commands
+14.rm -r directoryname :to delete directory and its files
+15.vi filename :to edit files
+16.nano filename :to edit files
+17.ls filename/-l(with permission)/-a(to see hidden files and directories)
+18.mkdir name/di1 di2 dirn
+19.mkdir -p dir/subdir1/subdir2
+20.touch f1 f2 f3 / {1..n}.extension

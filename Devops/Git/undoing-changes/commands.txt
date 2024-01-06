@@ -1,0 +1,8 @@
+1.git config --edit
+2.git remote rm origin
+3.git checkout filename/.
+4.git reset filename/--soft/--hard
+5.git commit --ammend
+6.git dif b1 b2
+7.git revert -m commit ID
+8.git revert filename

@@ -1,0 +1,26 @@
+1.git init
+2.git config user.name "user name "
+  git config user.email "user email"
+3.git add filename/./-A/--all/*.extension
+4.git commit -m "message"
+  git commit -am/filename -m "message"
+5.git remote add origin remote repository URL
+6.git push origin master/branchname
+7.git status
+8.git log/--oneline/-number/filename
+9.git clone URL/branchname
+10.git branch branchname
+11.git checkout branchname
+   git ceckout switch branchname
+12.git checkout -b branchname
+13.git branch/--list
+14.git mege branchname
+15.git rebase branchname
+16.git cherry -pick commit ID
+17.git branch -d branchname
+18.git branch -D branchname
+19.git push origin -d branchname
+20.git fetch URL
+21.git pull URL
+22.git merge branchname --forced
+23.git reflog

@@ -1,0 +1,3 @@
+1.mv filename directoryname : moving the file
+2.cp filename directory :copying file
+rm oldfilename newfilename :rename the file
